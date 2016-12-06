@@ -1,0 +1,29 @@
+{
+  "name": "gulp-include-html",
+  "version": "1.0.0",
+  "description": "gulp-include-html",
+  "main": "index.js",
+  "dependencies": {
+    "q": "^1.4.1",
+    "through2": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aqws02/gulp-include-html.git"
+  },
+  "keywords": [
+    "gulp",
+    "include",
+    "html"
+  ],
+  "author": "liweisong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aqws02/gulp-include-html/issues"
+  },
+  "homepage": "https://github.com/aqws02/gulp-include-html#readme"
+}
