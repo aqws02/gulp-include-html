@@ -1,5 +1,5 @@
 {
-  "name": "gulp-include-html",
+  "name": "lws-gulp-include-html",
   "version": "1.0.4",
   "description": "gulp-include-html",
   "main": "index.js",
