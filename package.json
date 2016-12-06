@@ -1,6 +1,6 @@
 {
   "name": "gulp-include-html",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gulp-include-html",
   "main": "index.js",
   "dependencies": {
